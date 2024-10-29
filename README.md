@@ -1,7 +1,6 @@
 [![license](https://img.shields.io/badge/license-UCL-green.svg?style=flat-square)](http://unity-chan.com/contents/license_jp/)
-[![release](https://img.shields.io/github/release/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll.svg?style=flat-square)](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/releases)
-[![GitHub](https://img.shields.io/github/followers/tomori-hikage.svg?label=@tomori-hikage&style=social)](https://github.com/tomori-hikage)
-[![Twitter](https://img.shields.io/twitter/follow/tomori_hikage.svg?label=@tomori_hikage&style=social)](https://twitter.com/tomori_hikage)
+[![release](https://img.shields.io/github/release/karashinasou/UnityChanToonShaderVer2_EmissiveScroll.svg?style=flat-square)](https://github.com/karashinasou/UnityChanToonShaderVer2_EmissiveScroll/releases)
+[![GitHub](https://img.shields.io/github/followers/karashinasou.svg?label=@karashinasou&style=social)](https://github.com/karashinasou)
 
 # UnityChanToonShaderVer2_EmissiveScroll
 
@@ -11,12 +10,12 @@ UnityChanToonShaderVer2_EmissiveScrollはUTS2.0にEmissiveの明滅機能とス�
 
 ## Demo
 
-![Demo1](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif1.gif)
-![Demo2](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif2.gif)
+![Demo1](https://github.com/karashinasou/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif1.gif)
+![Demo2](https://github.com/karashinasou/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif2.gif)
 
 ## Install
 
-[releases](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/releases)からUnityChanToonShaderVer2_EmissiveScroll.unitypackageをダウンロードしてプロジェクトにインポートしてください
+[releases](https://github.com/karashinasou/UnityChanToonShaderVer2_EmissiveScroll/releases)からUnityChanToonShaderVer2_EmissiveScroll.unitypackageをダウンロードしてプロジェクトにインポートしてください
 
 ## Original
 
